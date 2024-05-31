@@ -1,5 +1,4 @@
 //EVM CODE By Shubham
-//this is a sample change
 #include<LiquidCrystal.h>
 LiquidCrystal lcd(13, 12, 11, 10, 9, 8);
 
